@@ -1,0 +1,9 @@
+<h2 class="code-line" data-line-start=1 data-line-end=2 ><a id="Local_Variable_and_Instance_Variable_1"></a>Local Variable and Instance Variable</h2>
+<p class="has-line-data" data-line-start="2" data-line-end="5">You and your friend are digging in your backyard and uncover a bag of 20 gold coins.<br>
+The next day, you sneak down to the basement and stick the coins inside your grandfather’s steam-powered repli-cating invention (luckily, you can just fit the 20 coins inside).<br>
+You hear a whiz and a pop and, a few hours later, out shoot another 10 coins,they were magical coins.</p>
+<p class="has-line-data" data-line-start="6" data-line-end="7">You are standing in front of an old time machine. This was also an invention of your grandpa. This machine requires a total of 300 coins, some of which must be magical coins. It could transport you to a fantasy world. This piqued your interest.</p>
+<p class="has-line-data" data-line-start="8" data-line-end="9">The process keeps repeating until you accumulate more than 300 hundred coins in order to enter Grandpas’ fantasy world.</p>
+<p class="has-line-data" data-line-start="10" data-line-end="11">Make sure you mention who is accompanying you, how many magical coins and normal coins you have, and whether you are elligible to enter the fantasy world.</p>
+<h2 class="code-line" data-line-start=12 data-line-end=13 ><a id="Static_Variable_12"></a>Static Variable</h2>
+<p class="has-line-data" data-line-start="14" data-line-end="15">As soon as you have accumulated enough coins, please enter your details into the time machine, including your name, the name of your friend, and the number of coins.</p>
